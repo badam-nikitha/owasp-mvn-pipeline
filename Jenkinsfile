@@ -1,9 +1,5 @@
 pipeline {
     agent any
-    tools
-    {
-       maven "Maven3.8.5"
-    }
 
 
 
@@ -25,7 +21,5 @@ pipeline {
              bat "mvn clean install"
             }
         }
-        
-        
     }
 }
