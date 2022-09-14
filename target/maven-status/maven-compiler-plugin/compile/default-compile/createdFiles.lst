@@ -1,0 +1,4 @@
+com\covalense\DemoResponse1Application.class
+com\covalense\controller\HomeController.class
+com\covalense\beans\Response.class
+com\covalense\service\Service.class
